@@ -1,0 +1,8 @@
+langserve[server]
+fastapi
+langchain
+uvicorn
+langchain_core
+langchain_openai
+requests
+python-dotenv
